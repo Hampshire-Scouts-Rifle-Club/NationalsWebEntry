@@ -1,6 +1,7 @@
 # Using GitHub with SSH on Cloud9
+Run the following commands in a shell in your Cloud9 IDE.
 
-Run this command to generate your own SSH key.
+Generate your own SSH key:
 
 > ssh-keygen -t rsa
 
@@ -12,7 +13,7 @@ Create a new SSH key and paste in the output of this command:
 
 > cat ~/.ssh/id_rsa.pub
 
-Set up your SSH agent.
+Set up your SSH agent:
 
 > eval $(ssh-agent -s)
 > ssh-add ~/.ssh/id_rsa

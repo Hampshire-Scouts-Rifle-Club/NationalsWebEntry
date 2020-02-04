@@ -1,7 +1,7 @@
 # NationalsWebEntry
 The web entry system for the National Scout Rifle Championships.
 
-If you want to develop and deploy this system you will need an admin to give you permissions. For admins, this is [the process to follow](./help/Set Up New User.md).
+If you want to develop and deploy this system you will need an admin to give you permissions. For admins, this is [the process to follow](./help/Set%20Up%20New%20User.md).
 
 ## Create a Cloud9 IDE
 
