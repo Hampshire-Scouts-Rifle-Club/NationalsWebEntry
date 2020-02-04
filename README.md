@@ -13,4 +13,4 @@ In the AWS navigation bar choose 'Services', then 'Cloud9'. Then select 'Create 
 
 ## Clone this repository into your Cloud9 IDE
 
-Follow [the commands here](./help/GitHub SSH Setup.md) to use SSH to clone the repository from GitHub. 
+Follow [the commands here](help/GitHub SSH Setup.md) to use SSH to clone the repository from GitHub. 
